@@ -1,0 +1,4 @@
+<launch>
+<rosparam command="load" file="$(find lidar_crop)/config/param_160.yaml"/>
+<node name="pubname" pkg="lidar_crop" type="lidarcrop" required="true" output="screen" />
+</launch> 
