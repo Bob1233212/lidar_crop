@@ -2,8 +2,8 @@ subtopicname0: "/scan"
 pubtopicname0: "/scan_new"
 subtopicname1: "/vertical_laser_2d"
 pubtopicname1: "/vertical_laser_2d_cropped"
-multechoflag: false
 simulation: true
-angle0: 120
-angle1: 120
+multechoflag: false
+angle0: 240
+angle1: 240
 lidarnum: 1
